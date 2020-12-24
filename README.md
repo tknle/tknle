@@ -5,15 +5,20 @@
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
 [![netlify Badge](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&link=http://miale.netlify.com/)](http://miale.netlify.com/)
 
-<img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="400" height="300" />
+
 
 <h2 align="center"> About me </h2>
+<img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="400" height="300" />
 <p align="center">
   <blockquote> Everyday is a chance to learn something new </blockquote>
   <samp>A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals. 
   </samp>
   <br>
-  <samp> Pronouns: <a href="https://www.mypronouns.org/she-her"> She/her </a>
+  <ul>
+  <li>Pronouns: <a href="https://www.mypronouns.org/she-her"> She/her </a> <li>
+  <li> </li>
+  
+  </ul>  
   <br> <br>
 <!--   <img src="" alt="https://github.com/tknle" /> -->
 </p>
@@ -70,7 +75,7 @@
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 
-## Stat
+## ⚡ Stat
 
 ![stats](https://github-readme-stats.char-al.vercel.app/api?username=tknle&show_icons=true&count_private=true&theme=cobalt)
 
