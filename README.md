@@ -8,8 +8,8 @@
 
 
 ## About me
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="40%" height="220" />
-<br>
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="50%" height="220" />
+
 A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
 
 - 👧 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
