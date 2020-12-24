@@ -13,17 +13,17 @@
 
 >Everyday is a chance to learn something new
 
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="40%" height="220" />
+
 <br>
 A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
-<br>
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="40%" height="220" />
-<br>
-- :girl: Pronouns: [She/Her](https://www.mypronouns.org/she-her)
+
+- 👧 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 - ✍ You can find my projects here [Portfolio](http://miale.netlify.com/)
 - 👨🏽‍💻 I’m a CS student
 - 👯 I’m looking to collaborate on open source
 - 🌱 I have a degree in Business English
-- 😄 Fun-Fact: I'm super into workout
+- 😄 Fun-Fact: I'm super into workout!
 
 ## ⚡ Technologies
 
