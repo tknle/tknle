@@ -8,7 +8,8 @@
 <p align="center">
   <samp>A self-motivator and well-rounded IT student with programming background, always stay updated with the latest technology, everyday is a chance to learn something new. Enjoy collaborating with people, listen to new ideas and experiences, being a contributor to the team's goals.
   </samp>
-  <samp> Pronouns: She/her
+  <br>
+  <samp> Pronouns: <a href="https://www.mypronouns.org/she-her" She/her </a>
   <br> <br>
   <img src="" alt="https://github.com/tknle" />
 </p>
