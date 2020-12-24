@@ -8,7 +8,7 @@
 
 
 ## About me
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="50%" height="220" />
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="45%" height="260" />
 
 A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
 
