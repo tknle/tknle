@@ -1,10 +1,13 @@
 ## Hello World, I'm Mia 👋
 
+<div align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-miale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
 [![Gmail Badge](https://img.shields.io/badge/-tknle1@myseneca.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
+</div>
 
+<img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="400" height="220" />
 
-<h2 align="center"> Whoami</h2>
+<h2 align="center"> About me </h2>
 <p align="center">
   <blockquote> Everyday is a chance to learn something new </blockquote>
   <samp>A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals. 
@@ -15,7 +18,7 @@
 <!--   <img src="" alt="https://github.com/tknle" /> -->
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="500" height="320" />
+
 
 
 ## ⚡ Technologies
