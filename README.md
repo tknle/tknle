@@ -1,5 +1,6 @@
 ## Hello World, I'm Mia 👋
 
+ <img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-miale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
