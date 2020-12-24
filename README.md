@@ -5,10 +5,12 @@
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
 [![netlify Badge](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&link=http://miale.netlify.com/)](http://miale.netlify.com/)
 
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="500" height="320" />
+
 
 ## About me
 ---
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="55%" height="320" />
+
 >Everyday is a chance to learn something new
 
 <br>
