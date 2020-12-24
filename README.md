@@ -9,20 +9,20 @@
 
 ## About me
 ---
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="40%" height="220" />
+
 
 >Everyday is a chance to learn something new
 
 <br>
 A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
 <br>
-
-- 😄 Pronouns: She/Her
-- ✍ You can find my projects here [portfolio]
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="40%" height="220" />
+- 👧 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
+- ✍ You can find my projects here [Portfolio](http://miale.netlify.com/)
 - 👨🏽‍💻 I’m a CS student
 - 👯 I’m looking to collaborate on open source
 - 🌱 I have a degree in Business English
-- ⚡️ Fun-Fact: I'm super into workout
+- 😄 Fun-Fact: I'm super into workout
 
 ## ⚡ Technologies
 
