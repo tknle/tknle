@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-miale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
 [![Gmail Badge](https://img.shields.io/badge/-tknle1@myseneca.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=tknle)](https://github.com/miale/github-readme-stats)
+
 
 
 I am
@@ -38,3 +38,8 @@ I am
 * __Others__ ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+## Stat
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=tknle)](https://github.com/miale/github-readme-stats)
+![stats](https://github-readme-stats.char-al.vercel.app/api?username=tknle&show_icons=true&count_private=true&theme=tokyonight)
