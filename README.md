@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:miale6407@gmail.com)](miale6407@gmail.com)
 [![netlify Badge](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&link=http://miale.netlify.com/)](http://miale.netlify.com/)
 
-<img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="400" height="220" />
+<img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="400" height="300" />
 
 <h2 align="center"> About me </h2>
 <p align="center">
@@ -55,8 +55,8 @@
 
 * __Source Control__
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
@@ -72,3 +72,5 @@
 ## Stat
 
 ![stats](https://github-readme-stats.char-al.vercel.app/api?username=tknle&show_icons=true&count_private=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tknle&layout=compact&theme=cobalt)]
