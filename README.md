@@ -12,5 +12,7 @@ I am
 ## ⚡ Technologies
 <br>
 #Languages
+<br>
+
 ![C](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
