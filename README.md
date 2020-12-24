@@ -10,9 +10,7 @@ I am
 
 ## ⚡ Technologies
 
-* Languages
-
-![C](https://img.shields.io/badge/-C-blueviolet?style=flat-square&logo=c)
+* Languages ![C](https://img.shields.io/badge/-C-blueviolet?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
