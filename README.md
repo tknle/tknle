@@ -6,7 +6,8 @@
 
 <h2 align="center"> Whoami</h2>
 <p align="center">
-  <samp>A self-motivator and well-rounded IT student with programming background, always stay updated with the latest technology, everyday is a chance to learn something new. Enjoy collaborating with people, listen to new ideas and experiences, being a contributor to the team's goals.
+  <blockquote> Everyday is a chance to learn something new </blockquote>
+  <samp>A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals. 
   </samp>
   <br>
   <samp> Pronouns: <a href="https://www.mypronouns.org/she-her"> She/her </a>
