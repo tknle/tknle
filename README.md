@@ -10,7 +10,7 @@ I am
 
 ## ⚡ Technologies
 
-# Languages
+### Languages
 
 
 ![C](https://img.shields.io/badge/-C-blueviolet?style=flat-square&logo=c)
@@ -20,7 +20,7 @@ I am
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
-# Web Technologies
+### Web Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,3 +30,8 @@ I am
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
+### Database
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
