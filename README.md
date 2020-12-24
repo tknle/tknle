@@ -8,9 +8,8 @@
 
 I am
 
-<br/>
 ## ⚡ Technologies
-<br> <br>
+
 # Languages
 <br>
 
