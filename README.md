@@ -1,4 +1,4 @@
-### Hi, I'm Mia 👋
+## Hi, I'm Mia 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-miale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
 [![Gmail Badge](https://img.shields.io/badge/-tknle1@myseneca.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
@@ -11,7 +11,7 @@ I am
 ## ⚡ Technologies
 
 # Languages
-<br>
+
 
 ![C](https://img.shields.io/badge/-C-blueviolet?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -19,9 +19,8 @@ I am
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-<br>
+
 # Web Technologies
-<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
