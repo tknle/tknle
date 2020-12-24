@@ -4,9 +4,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-tknle1@myseneca.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
 
 
-
-
-I am
+<h2 align="center"> Whoami</h2>
+<p align="center">
+  <samp>A self-motivator and well-rounded IT student with programming background, always stay updated with the latest technology, everyday is a chance to learn something new. Enjoy collaborating with people, listen to new ideas and experiences, being a contributor to the team's goals.
+  </samp>
+  <samp> Pronouns: She/her
+  <br> <br>
+  <img src="" alt="https://github.com/tknle" />
+</p>
 
 ## ⚡ Technologies
 
@@ -41,5 +46,4 @@ I am
 
 ## Stat
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=tknle)](https://github.com/miale/github-readme-stats)
 ![stats](https://github-readme-stats.char-al.vercel.app/api?username=tknle&show_icons=true&count_private=true&theme=tokyonight)
