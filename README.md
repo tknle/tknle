@@ -9,7 +9,7 @@
 
 ## About me
 ---
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="55%" height="320" />
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="40%" height="220" />
 
 >Everyday is a chance to learn something new
 
