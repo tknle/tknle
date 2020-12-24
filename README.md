@@ -13,9 +13,8 @@
 A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
 
 - 👧 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- 👨🏽‍💻 I’m a CS student
 - 📍 Toronto, ONTARIO
-- ✍ You can find my projects here [My Portfolio](http://miale.netlify.com/)
+- 👨🏽‍💻 You can find my projects here [My Portfolio](http://miale.netlify.com/)
 - 👯 I’m looking to collaborate on open source
 - 🌱 I have a degree in Business English
 - 😄 Fun-Fact: I'm super into workout!
