@@ -1,9 +1,8 @@
 ## Hello World, I'm Mia 👋
 
-<div align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-miale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
 [![Gmail Badge](https://img.shields.io/badge/-tknle1@myseneca.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
-</div>
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://miale.netlify.net/)
 
 <img align="center" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="400" height="220" />
 
