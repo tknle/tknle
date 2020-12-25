@@ -10,13 +10,13 @@
 ## About me
 <img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="45%" />
 
-A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
+A self-motivator and well-rounded IT student with a programming background. I always stay updated with the latest technology, enjoy collaborating with people, listening to new ideas/experiences and being a contributor to the team's goals.
 
 - 📍 Toronto, ONTARIO
 - 👨🏽‍💻 You can find my projects here [My Portfolio](http://miale.netlify.com/)
 - 👯 I’m looking to collaborate on open source
 - 🌱 I have a degree in Business English
-- 😄 Fun-Fact: I'm super into workout!
+- 😄 Fun-Fact: I'm super into working out!
 
 ## ⚡ Technologies
 
