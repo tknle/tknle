@@ -3,16 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:miale6407@gmail.com)](mailto:miale6407@gmail.com)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
-[![netlify Badge](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&link=http://miale.netlify.com/)](http://miale.netlify.com/)
+[![Netlify Badge](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&link=http://miale.netlify.com/)](http://miale.netlify.com/)
 
 
 
 ## About me
-<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="45%" height="260" />
+<img align="right" alt="GIF" src="https://github.com/tknle/tknle/blob/main/coder.gif?raw=true" width="45%" />
 
 A self-motivator and well-rounded IT student with programming background. Always stay updated with the latest technology. Enjoy collaborating with people, listening to new ideas and experiences, being a contributor to the team's goals.
 
-- 👧 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 - 📍 Toronto, ONTARIO
 - 👨🏽‍💻 You can find my projects here [My Portfolio](http://miale.netlify.com/)
 - 👯 I’m looking to collaborate on open source
