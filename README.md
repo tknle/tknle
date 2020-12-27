@@ -19,6 +19,7 @@ A self-motivator and well-rounded IT student with a programming background. I al
 - 😄 Fun-Fact: I'm super into working out!
 
 ## ⚡ Technologies
+- Clicking on each badge possibly lead to the project mainly built using that language/technology or certificate related to the badge name. 
 
 * __Languages__
 
@@ -60,9 +61,9 @@ A self-motivator and well-rounded IT student with a programming background. I al
 
 * __Others__
 
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/MKCGRS4X2YWR)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/7LXJE4JVP827)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
