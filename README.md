@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com//in/miale/)](https://www.linkedin.com/in/miale/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:miale6407@gmail.com)](mailto:miale6407@gmail.com)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tknle1@myseneca.ca)](mailto:tknle1@myseneca.ca)
-[![Netlify Badge](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white&link=http://miale.netlify.com/)](http://miale.netlify.com/)
-
 
 
 ## About me
@@ -13,13 +11,12 @@
 A self-motivator and well-rounded IT student with a programming background. I always stay updated with the latest technology, enjoy collaborating with people, listening to new ideas/experiences and being a contributor to the team's goals.
 
 - 📍 Toronto, ONTARIO
-- 👨🏽‍💻 You can find my projects here [My Portfolio](http://miale.netlify.com/)
+- 👨🏽‍💻 You can find my portfolio here [My Portfolio](http://miale.me/)
 - 👯 I’m looking to collaborate on open source
-- 🌱 I have a degree in Business English
-- 😄 Fun-Fact: I'm super into working out!
+- 🌱 I was a business-related student
+- 😄 Fun-Fact: I can't live without coffee and I'm super into working out!
 
 ## ⚡ Technologies
-- Clicking on each badge possibly lead to the project mainly built using that language/technology or certificate related to the badge name. 
 
 * __Languages__
 
